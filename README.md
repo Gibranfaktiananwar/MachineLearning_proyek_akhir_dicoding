@@ -1,0 +1,2 @@
+# MachineLearning_proyek_akhir_dicoding
+Dirun menggunakan Google Colab
