@@ -1,3 +1,3 @@
 
-Dirun menggunakan Google Colab
-berisi penjelasan di baris agar lebih mudah dipahami 
+Dirun menggunakan Google Colab dan
+diberi penjelasan di baris agar lebih mudah dipahami 
